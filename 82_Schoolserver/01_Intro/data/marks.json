@@ -1,0 +1,39 @@
+{
+  "marks_school": [
+    {
+    "id": 301, "student_id": 1,
+    "modules": [
+      {"name": "m286", "mark": "5.0", "sem": 1, "teacher_id": 1000},
+      {"name": "m287", "mark": "4.0", "sem": 2, "teacher_id": 1000},
+      {"name": "m288", "mark": "4.5", "sem": 3, "teacher_id": 1000}
+    ],
+    "matura": [
+      {"name": "Französisch", "mark": "5.0", "sem": 1, "teacher_id": 1101},
+      {"name": "Englisch", "mark": "4.0", "sem": 1, "teacher_id": 1101},
+      {"name": "Deutsch", "mark": "4.5", "sem": 1, "teacher_id": 1102},
+      {"name": "Französisch", "mark": "4.0", "sem": 2, "teacher_id": 1101},
+      {"name": "Englisch", "mark": "5.0", "sem": 2, "teacher_id": 1101},
+      {"name": "Deutsch", "mark": "6.0", "sem": 2, "teacher_id": 1102},
+      {"name": "Französisch", "mark": "4.5", "sem": 3, "teacher_id": 1101},
+      {"name": "Englisch", "mark": "4.5", "sem": 3, "teacher_id": 1101},
+      {"name": "Deutsch", "mark": "5.5", "sem": 3, "teacher_id": 1102}
+    ]},{
+    "id": 302, "student_id": 2,
+    "modules": [
+      {"name": "m286", "mark": "4.0", "sem": 1, "teacher_id": 1000},
+      {"name": "m287", "mark": "4.0", "sem": 2, "teacher_id": 1000},
+      {"name": "m288", "mark": "4.5", "sem": 3, "teacher_id": 1000}
+    ],
+    "matura": [
+      {"name": "Französisch", "mark": "4.0", "sem": 1, "teacher_id": 1101},
+      {"name": "Englisch", "mark": "4.0", "sem": 1, "teacher_id": 1101},
+      {"name": "Deutsch", "mark": "4.5", "sem": 1, "teacher_id": 1102},
+      {"name": "Französisch", "mark": "4.0", "sem": 2, "teacher_id": 1101},
+      {"name": "Englisch", "mark": "5.0", "sem": 2, "teacher_id": 1101},
+      {"name": "Deutsch", "mark": "4.5", "sem": 2, "teacher_id": 1102},
+      {"name": "Französisch", "mark": "4.5", "sem": 3, "teacher_id": 1101},
+      {"name": "Englisch", "mark": "4.5", "sem": 3, "teacher_id": 1101},
+      {"name": "Deutsch", "mark": "5.5", "sem": 3, "teacher_id": 1102}
+    ]}
+  ]
+}

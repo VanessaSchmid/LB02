@@ -1,0 +1,17 @@
+{
+  "company": [{
+    "id": 101, "name": "Sunrise Communications AG", "contact": "Felix Haeberli", "phone": "0767771234",
+    "email": "felixhaeberli@sunrise.net", "url": "https://www.sunrise.ch/de/lernende/young-talents.html",
+    "profession": "Mediamatiker, Informatiker, Kaufmann, Detailhandelsfachmann, Kundendialog", "company_id": 101},
+
+    {
+      "id": 102, "name": "Lindt & Sprüngli", "contact": "Patrick Meier", "phone": "0793457788",
+      "email": "patrick.meier@lindt.ch", "url": "https://www.lindt.ch/de/die-welt-von-lindt/karriere/lehrstellen-bei-lindt-spruengli/",
+      "profession": "Automatiker, Kaufmann, Logistiker, Polymechaniker", "company_id": 102},
+
+    {
+      "id": 103, "name": "IKEA", "contact": "Fabienne Hug", "phone": "0789873027",
+      "email": "fabienne-hug@ikea.com", "url": "https://lehrling.ikea-schweiz.ch/de",
+      "profession": "Polydesigner, Logistiker, Detailhandelsfachmann", "company_id": 103}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "school": [{
+    "id": 1, "first_name": "Anna", "last_name": "Muster", "age": 16, "gender": "f",
+    "profession": "Mediamatiker", "sem": 1, "company_id": 101
+  }, {
+    "id": 2, "first_name": "Sara", "last_name": "Smith", "age": 20, "gender": "f",
+    "profession": "Recyclist", "sem": 4, "company_id": 102
+  }]
+}
